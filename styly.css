@@ -1,0 +1,64 @@
+body {
+  background-color: lightcyan;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.obal {
+  width: 400px;
+  height: 600px;
+  border: 2px solid #b35eb3;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+ol,
+ul {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+ul {
+  margin-top: 10px;
+}
+
+.foto {
+  margin-top: 35px;
+  border-radius: 10px;
+  width: 150px;
+  height: auto;
+}
+
+a {
+  font-size: 24px;
+  text-decoration: none;
+  color: #b35eb3;
+}
+
+a:hover {
+  color: lightpink;
+}
+
+p {
+  padding: 10px;
+}
+
+img {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+h3 {
+  font-size: 16px;
+  margin: 30px 0 0;
+}
+
+.smajlik {
+  width: 1em;
+  height: 1em;
+}
